@@ -42,6 +42,23 @@
 
 ![11](https://github.com/kumar-aditya101/TuneHub-App/assets/102309758/9c63d40c-fded-4e6e-b944-cc099d15d9df)
 
+![001](https://github.com/kumar-aditya101/TuneHub-App/assets/102309758/9c86e5e3-56d9-4589-9ebf-dde0b77ab32d)
+
+![002](https://github.com/kumar-aditya101/TuneHub-App/assets/102309758/e1694823-f94f-44bf-8440-3458b5b5a5a5)
+
+![003](https://github.com/kumar-aditya101/TuneHub-App/assets/102309758/faec585c-1c63-4a1f-82f0-f5022f47de37)
+
+![004](https://github.com/kumar-aditya101/TuneHub-App/assets/102309758/3cef4550-f0a1-4700-bab7-109f2776c732)
+
+![005](https://github.com/kumar-aditya101/TuneHub-App/assets/102309758/fa35a164-ec22-45f6-91e6-c4d804cffaf4)
+
+
+
+
+
+
+
+
 
 
 
