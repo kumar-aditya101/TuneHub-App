@@ -4,8 +4,8 @@
 ## It is a Music Application. 
 
 ### Application Features:
-- User can listen the song form the list.
-- Admin has the permission to add song, create playlist and view songs and playlist.
+- User will be able to view the songs and they will be able to play the songs.which have been earlier added by the admin.
+- Admin has the permission to add song and add playlist as well as view the songs in the playlist.
 
 ### Technology used in this Project: 
 - i) Thymeleaf,CSS : designing page layout. 
