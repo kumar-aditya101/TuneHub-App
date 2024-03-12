@@ -4,7 +4,7 @@
 ## It is a Music Application. 
 
 ### Application Features:
-- User will be able to view the songs and they will be able to play the songs.which have been earlier added by the admin.
+- User will be able to view the songs and they will be able to play the songs.Which have been earlier added by the admin.
 - Admin has the permission to add song and add playlist as well as view the songs in the playlist.
 
 ### Technology used in this Project: 
